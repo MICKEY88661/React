@@ -1,6 +1,6 @@
 # React
 
-play ground
+React related code
 
 ### css
 
